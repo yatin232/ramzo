@@ -1,70 +1,84 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https:
+### ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg) ![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
 
-## Available Scripts
+# [GitHub Repo 🌟 Stars](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/stargazers) & [GitHub 🍴 Forks](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/network/members)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+### 🔹 [Report Bug](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/issues)      🔹 [Request Feature](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/issues)
 
-Runs the app in the development mode.\
-Open [http:
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### TL;DR
 
-### `npm test`
+Feel free to **fork** this repository and modify it for your own needs.
+If you do, please give proper credit by linking back to **https://github.com/yatin232**.
+Thanks! 🙏
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https:
+---
 
-### `npm run build`
+## 🚀 Built With
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This portfolio was built to showcase my GitHub projects, resume, and technical skills.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> 🔗 **Live Portfolio:** 
 
-See the section about [deployment](https:
+### ⚙️ Technologies Used
 
-### `npm run eject`
+* **React.js**
+* **Node.js**
+* **Express.js**
+* **CSS3**
+* **VS Code**
+* **Netlify**
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## ✨ Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* 📖 **Multi-Page Layout**
+* 🎨 **Styled using React-Bootstrap and CSS (easy to customize)**
+* 📱 **Fully Responsive on all devices**
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
+## 🛠 Getting Started
 
-You can learn more in the [Create React App documentation](https:
+To get a local copy up and running:
 
-To learn React, check out the [React documentation](https:
+### ✅ Installation and Setup
 
-### Code Splitting
+```bash
+git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
+npm install
+npm start
+```
 
-This section has moved here: [https:
+The app will run in development mode at:
+👉 [http://localhost:3000](http://localhost:3000)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https:
+## 💡 Usage Instructions
 
-### Making a Progressive Web App
+Navigate to:
 
-This section has moved here: [https:
+```
+/src/components/
+```
 
-### Advanced Configuration
 
-This section has moved here: [https:
 
-### Deployment
+## 🙌 Show Your Support
 
-This section has moved here: [https:
+If you like this project, **give it a ⭐ on GitHub** to help others find it!
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https:
+### 🔗 Connect with me
+
+* GitHub: https://github.com/yatin232
+* LinkedIn: https://www.linkedin.com/in/yatinder-singh-rawat-453182240/
+* Portfolio:
+
