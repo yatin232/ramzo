@@ -17,6 +17,8 @@ Thanks! 🙏
 
 ---
 
+This app is deployed link- Click This(https://ramzo.netlify.app/)
+
 ## 🚀 Built With
 
 This portfolio was built to showcase my GitHub projects, resume, and technical skills.
